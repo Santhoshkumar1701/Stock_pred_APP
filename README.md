@@ -1,1 +1,1 @@
-# Stock_pred_APP
+# Stock_Pred_APP
