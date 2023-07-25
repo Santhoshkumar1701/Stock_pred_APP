@@ -6,7 +6,7 @@ To run the app, you will need the following:
 
 Python 3.6 or higher
 
-## The following Python packages:
+The following Python packages:
 
 streamlit
 fbprophet
